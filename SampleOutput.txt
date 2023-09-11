@@ -1,0 +1,5 @@
+Percent frequency of the number 1 is: 5%
+Percent frequency of the number 2 is: 8%
+Percent frequency of the number 3 is: 12%
+Percent frequency of the number 4 is: 24%
+Percent frequency of the number 5 is: 51%
